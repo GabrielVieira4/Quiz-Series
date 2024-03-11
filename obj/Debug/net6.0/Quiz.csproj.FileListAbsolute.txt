@@ -1,0 +1,15 @@
+C:\Aplications\DevsSinistros\Quiz\bin\Debug\net6.0\Quiz.exe
+C:\Aplications\DevsSinistros\Quiz\bin\Debug\net6.0\Quiz.deps.json
+C:\Aplications\DevsSinistros\Quiz\bin\Debug\net6.0\Quiz.runtimeconfig.json
+C:\Aplications\DevsSinistros\Quiz\bin\Debug\net6.0\Quiz.dll
+C:\Aplications\DevsSinistros\Quiz\bin\Debug\net6.0\Quiz.pdb
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\Quiz.csproj.AssemblyReference.cache
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfoInputs.cache
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfo.cs
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\Quiz.dll
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\refint\Quiz.dll
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\Quiz.pdb
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
+C:\Aplications\DevsSinistros\Quiz\obj\Debug\net6.0\ref\Quiz.dll
