@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FvaVzpJyb4iS9k2Zt8rwtC8V6qrPVrNy0CZ2hsWDx63rfc3xA9Ren3jiOSG1ae3Sx5wOl4n1eCklI2hb3+UEcQ==",
+  "dgSpecHash": "ggdyMfpxo8CtOjKRX47Ut65wK21e2PrfflD8PLeoOwcdu06+suN3zHgdcH/GL4vhOKsCKnmPrIu2UI58zZYL8w==",
   "success": true,
-  "projectFilePath": "C:\\Aplications\\DevsSinistros\\Quiz\\Quiz.csproj",
+  "projectFilePath": "C:\\Aplications\\Quiz-Series\\Quiz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

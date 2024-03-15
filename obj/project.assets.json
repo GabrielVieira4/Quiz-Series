@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aplications\\DevsSinistros\\Quiz\\Quiz.csproj",
+      "projectUniqueName": "C:\\Aplications\\Quiz-Series\\Quiz.csproj",
       "projectName": "Quiz",
-      "projectPath": "C:\\Aplications\\DevsSinistros\\Quiz\\Quiz.csproj",
+      "projectPath": "C:\\Aplications\\Quiz-Series\\Quiz.csproj",
       "packagesPath": "C:\\Users\\gabriel.vieira\\.nuget\\packages\\",
-      "outputPath": "C:\\Aplications\\DevsSinistros\\Quiz\\obj\\",
+      "outputPath": "C:\\Aplications\\Quiz-Series\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel.vieira\\AppData\\Roaming\\NuGet\\NuGet.Config"
