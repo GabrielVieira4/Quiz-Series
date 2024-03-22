@@ -1,12 +1,13 @@
+using System.Threading;
 namespace QuizSeries.Menus.Series.GameOfThrones
 {
     public class QuizGot
     {
         public static void LogoGot()
         {
-            System.Console.WriteLine(@"
+            System.Console.WriteLine($@"
 █▀▀ ▄▀█ █▀▄▀█ █▀▀   █▀█ █▀▀   ▀█▀ █░█ █▀█ █▀█ █▄░█ █▀▀ █▀
-█▄█ █▀█ █░▀░█ ██▄   █▄█ █▀░   ░█░ █▀█ █▀▄ █▄█ █░▀█ ██▄ ▄█\n");
+█▄█ █▀█ █░▀░█ ██▄   █▄█ █▀░   ░█░ █▀█ █▀▄ █▄█ █░▀█ ██▄ ▄█");
         }
 
         public static void GameOfThrones()
@@ -30,7 +31,7 @@ namespace QuizSeries.Menus.Series.GameOfThrones
             Console.Clear();
             LogoGot();
 
-            System.Console.WriteLine(" Quem é o bastardo de Ned Stark?");
+            System.Console.WriteLine("\nQuem é o bastardo de Ned Stark?\n");
             System.Console.WriteLine("1 - Tyrion Lanister");
             System.Console.WriteLine("2 - Perdigueiro, O cão");
             System.Console.WriteLine("3 - John Snow, Lord Comandante da Guarda da noite");
@@ -54,6 +55,13 @@ namespace QuizSeries.Menus.Series.GameOfThrones
                     System.Console.WriteLine("Parabéns!!!! Aperte qualquer tecla para a proxima pergunta");
                     Console.ReadLine();
                     //Got2();
+                    break;
+                default:
+                    Console.Clear();
+                    System.Console.WriteLine("Opção invalida, escolha uma das opções exibidas na tela.");
+                    Thread.Sleep(3000);
+
+                    PrimeiraPerguntaGot();
                     break;
             }
         }
